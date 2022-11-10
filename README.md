@@ -1,10 +1,10 @@
 # Projektarbeit
 #
-# Tunc Johannes
-# Sperrer Rene
+## Tunc Johannes
+## Sperrer Rene
 #
-# Bogenschießen projektabrbeit Punktestandzähler
-# Was soll es können
+### Bogenschießen projektabrbeit Punktestandzähler
+### Was soll es können
 #
 # - klassisches zählen bogenschießpunkten
 # - competives punktezählen gegen andere spieler mit punktestand und sieger
