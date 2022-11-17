@@ -4,7 +4,7 @@
 #### Sperrer Rene
 #### Duda Ursula
 #
-### Bogenschießen projektabrbeit Punktestandzähler
+### Bogenschießen projektarbeit Punktestandzähler
 ### Was soll es können
 #
 # - klassisches zählen bogenschießpunkten
