@@ -1,9 +1,9 @@
 # Projektarbeit - BogenShooter
 ## Team
-#### Tunc Johannes
+#### Tunc Johannes ( Teamleiter )
 #### Sperrer Rene
 #### Duda Ursula
-#
+
 ### Bogenschießen projektabrbeit Punktestandzähler
 ### Was soll es können
 
